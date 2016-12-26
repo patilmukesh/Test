@@ -18,6 +18,7 @@ public class First_WebdriverClass {
  
     public static void main(String[] args) throws IOException {
         // declaration and instantiation of objects/variables
+    	//commiting 2nd time
         WebDriver driver = new FirefoxDriver();
         String baseUrl = "https://www.facebook.com/";
          // launch Firefox and direct it to the Base URL
